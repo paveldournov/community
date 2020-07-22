@@ -7,7 +7,7 @@ In order to standardize Working Group efforts, create maximum
 transparency, and route contributors to the appropriate WG, WGs should follow
 these guidelines:
 
-- Create a charter and have it approved according to the [WG charter process]
+- Create a charter and have it approved according to the [WG charter process](wg-charter.md)
 - Meet regularly, at least for 30 minutes every 3 weeks, except November and
 December
 - Keep up-to-date meeting notes, linked from the WG's page in the community
